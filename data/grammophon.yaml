@@ -1,0 +1,1647 @@
+---
+# make sure to add comments to every (most) lists
+'2022':
+  spring:
+    - nice symphony u got there:
+      - title: La Valse - Mouvement de Valse viennoise - Un peu plus modéré - Premier mouvement - Assez animé
+        artist: Ravel
+        links:
+          spotify: https://open.spotify.com/track/6dAS2i3A0pTv4KNZ2JLTQw?si=a2f153723ed64e7c
+          classical: true
+'2021':
+  winter:
+    - a well-deserved break: # first winter break after "actual" college, before new year
+      - title: 分かってないよ
+        artist: WurtS
+        links:
+          spotify: https://open.spotify.com/track/5wosJVYKzl3g7XElM98m23?si=6f06a2f34ced435c
+      - title: Talking Box
+        artist: WurtS
+        links:
+          spotify: https://open.spotify.com/track/7fru0rxutpi08K7Q112saF?si=95d3837f9e8d406b
+      - title: NERVEs
+        artist: WurtS
+        links:
+          spotify: https://open.spotify.com/track/1XuKf3rKjkmGo0B9lXByrQ?si=46cc4e1f840d4936
+      - title: リトルダンサー feat. Ito
+        artist: WurtS, PEOPLE 1
+        links:
+          spotify: https://open.spotify.com/track/2aKT3Rwcf0MKutWB9mcg5p?si=caf4276ffd6a4994
+      - title: Cool Kids
+        artist: Justus Bennetts
+        links:
+          spotify: https://open.spotify.com/track/4PLuCa10ULsd3t9bGV7MH5?si=bfa01b87a53443fd
+      - title: Better Days
+        artist: NEIKED, Mae Muller, Polo G
+        links:
+          spotify: https://open.spotify.com/track/6f5ExP43esnvdKPddwKXJH?si=1c4707b8632d4328
+      - title: Macchina
+        artist: Sungazer
+        links:
+          spotify: https://open.spotify.com/track/3L9nrJY59i6DWM6ZAuLF97?si=32c7d5688e08446b
+      - title: Drunk
+        artist: Sungazer
+        links:
+          spotify: https://open.spotify.com/track/3L9nrJY59i6DWM6ZAuLF97?si=4874bce6bf6645db
+      - title: Santé
+        artist: Stromae
+        links:
+          youtube: https://www.youtube.com/watch?v=P3QS83ubhHE
+      - title: everything sucks
+        artist: vaultboy
+        links:
+          spotify: https://open.spotify.com/track/3z06k8YF9CqX0CGFrlekOK?si=291454b24dea416c
+      - title: Sunroof
+        artist: Nicky Youre, dazy
+        links:
+          spotify: https://open.spotify.com/track/3RfTeIrWS8LNrfHYwechtt?si=207f54fd71b04e1a
+      - title: Threshold
+        artist: Sungazer
+        links:
+          spotify: https://open.spotify.com/track/5JuoOF3ThukFMsuY2farqm?si=e34910524d124cbe
+      - title: Dirty
+        artist: grandson
+        links:
+          spotify: https://open.spotify.com/track/3pShTDa5E1bPBkrc1mxxGY?si=0c8bd92793bd41eb
+      - title: Infinity
+        artist: Jaymes Young
+        links:
+          spotify: https://open.spotify.com/track/1SOClUWhOi8vHZYMz3GluK?si=427c0227fccc4499
+      - title: Demons
+        artist: Imagine Dragons
+        links:
+          spotify: https://open.spotify.com/track/3LlAyCYU26dvFZBDUIMb7a?si=a7813b2d49d24fcc
+          tiktok: true
+          meme: true
+      - title: The Other Side of Paradise
+        artist: Glass Animals
+        links:
+          spotify: https://open.spotify.com/track/0rRjGruFonCGOt0S5zAJNQ?si=2165f7b051b540c7
+      - title: Married in a Gold Rush (feat. Danielle Haim)
+        artist: Vampire Weekend, Danielle Haim
+        links:
+          spotify: https://open.spotify.com/track/4Ww4jdVXTyvSnryNTtReRJ?si=fc4eaedf64164bff
+      - title: Youth
+        artist: Glass Animals
+        links:
+          spotify: https://open.spotify.com/track/1LPGwuFgIzbJoShfDdw7MY?si=669d0c78bb5e40a7
+      - title: THATS WHAT I WANT
+        artist: Lil Nas X
+        links:
+          spotify: https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO?si=2f38cd480f8a4032
+      - title: edamame (feat. Rich Brian)
+        artist: bbno$, Rich Brian
+        links:
+          spotify: https://open.spotify.com/track/1uMHCAyGmHqyygoNRuo7MV?si=abf88884b5f046d9
+          tiktok: true
+      - title: "#BrooklynBloodPop!"
+        artist: SyKo
+        links:
+          spotify: https://open.spotify.com/track/7K9Z3yFNNLv5kwTjQYGjnu?si=e627d423fc494357
+          tiktok: true
+          meme: true
+      - title: Troublemaker (feat. Flo Rida)
+        artist: Olly Murs, Flo Rida
+        links:
+          spotify: https://open.spotify.com/track/4jOtC832PyIXlCVPRElfQu?si=b5d4bc4b43e74dba
+      - title: ...And to Those I Love, Thanks for Sticking Around
+        artist: $uicideboy$
+        links:
+          spotify: https://open.spotify.com/track/30QR0ndUdiiMQMA9g1PGCm?si=15b653416ffa4011
+          tiktok: true
+      - title: Sunflower
+        artist: Rex Orange County
+        links:
+          spotify: https://open.spotify.com/track/4EpZ4eYuZOwPSSwyqpdHnJ?si=1792a186eca645c0
+    - "efficient processes and random algorithms: the final": # cramming for cs170 and eecs126
+      - title: Far Away
+        artist: Nothingtosay, Zeyn
+        links:
+          youtube: https://www.youtube.com/watch?v=LR8t1vk6TZ0
+      - title: Cope
+        artist: Kurt Stewart, Lomme
+        links:
+          youtube: https://www.youtube.com/watch?v=e5dWjyyw2Kw
+      - title: Persist
+        artist: less.people
+        links:
+          youtube: https://www.youtube.com/watch?v=_wkSN9DCMYM
+      - title: The Ridge
+        artist: Allem Iversom
+        links:
+          youtube: https://www.youtube.com/watch?v=kL4xRgB9jSM
+      - title: Snowflakes
+        artist: Pandrezz
+        links:
+          youtube: https://www.youtube.com/watch?v=jtwPOFi9iiE
+      - title: Forget me
+        artist: less.people
+        links:
+          youtube: https://www.youtube.com/watch?v=hGrFHkf9fGY
+      - title: Isolated
+        artist: amies
+        links:
+          youtube: https://www.youtube.com/watch?v=QAHFwI8pIpM
+      - title: Snooze
+        artist: Aylior, Sebastian Kamae
+        links:
+          youtube: https://www.youtube.com/watch?v=EyBDHKXk0ZA
+      - title: February
+        artist: Jay-Lounge
+        links:
+          youtube: https://www.youtube.com/watch?v=jqAFKHQmmAw
+      - title: Crimson
+        artist: G Mills
+        links:
+          youtube: https://www.youtube.com/watch?v=65Qc86ODacY
+    - what the hell just happened: # meme moments
+      - title: Slipping Through My Fingers
+        artist: ally, ABBA
+        links:
+          youtube: https://www.youtube.com/watch?v=Vzyl1m2YJ6M
+          soundcloud: https://soundcloud.com/ally-232118998/slipping-through-my-fingers
+          tiktok: true
+      - title: Let Me Hit It
+        artist: Sporty-O
+        links:
+          youtube: https://www.youtube.com/watch?v=VrWeEvlZ52M
+          tiktok: true
+      - title: 夜に駆ける
+        artist: YOASOBI
+        links:
+          youtube: https://www.youtube.com/watch?v=x8VYWazR5mE
+          tiktok: true
+      - title: positions
+        artist: Ariana Grande
+        links:
+          spotify: https://open.spotify.com/track/35mvY5S1H3J2QZyna3TFe0?si=861bf81e08f3446b
+          tiktok: true
+      - title: abcdefu
+        artist: GAYLE
+        links:
+          spotify: https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL?si=c119312bdfdc4c35
+          tiktok: true
+      - title: MONEY
+        artist: LISA
+        links:
+          spotify: https://open.spotify.com/track/7hU3IHwjX150XLoTVmjD0q?si=442ad80145f14d66
+          tiktok: true
+      - title: I Love You So
+        artist: The Walters
+        links:
+          spotify: https://open.spotify.com/track/1175r6ZmkUjX8dRJLz9Ohk?si=2ea8adcc30f84fe8
+          tiktok: true
+      - title: Do It To It
+        artist: ACRAZE, Cherish
+        links:
+          spotify: https://open.spotify.com/track/20on25jryn53hWghthWWW3?si=6ecafa608f574226
+          tiktok: true
+  autumn:
+    - dancing at the taxi: # Taxi as in the Theta Xi fraternity
+      - title: STAY (with Justin Bieber)
+        artist: The Kid LAROI, Justin Bieber
+        links:
+          spotify: https://open.spotify.com/track/5HCyWlXZPP0y6Gqq8TgA20?si=ceb542e987d34593
+      - title: Levitating
+        artist: Dua Lipa
+        links:
+          spotify: https://open.spotify.com/track/39LLxExYz6ewLAcYrzQQyP?si=1212bab7cac04913
+      - title: California Gurls
+        artist: Katy Perry, Snoop Dogg
+        links:
+          spotify: https://open.spotify.com/track/6tS3XVuOyu10897O3ae7bi?si=b177c44c48934aba
+      - title: Somebody To You
+        artist: The Vamps
+        links:
+          spotify: https://open.spotify.com/track/6VrLYoQKdhu1Jruei06t65?si=5023f4bb7df141fb
+    - panic in the 126 lab: # eecs126 labs were a pain
+      - title: 頓珍漢の宴
+        artist: ピノキオピー
+        links:
+          youtube: https://www.youtube.com/watch?v=D6dwEFGL_KI
+      - title: Tank!
+        artist: Seatbelts
+        links:
+          youtube: https://www.youtube.com/watch?v=n2rVnRwW0h8
+      - title: 輝く針の小人族　～ Little Princess
+        artist: U2 Akiyama
+        links:
+          youtube: https://www.youtube.com/watch?v=cpCBT1xpYoM
+      - title: Until The Morning Comes
+        artist: softy, no one's perfect
+        links:
+          youtube: https://www.youtube.com/watch?v=9FOaBLbn7WM
+      - title: Distant Lands
+        artist: Kupla
+        links:
+          youtube: https://www.youtube.com/watch?v=nNEP2ge-xKg
+      - title: Wish You Were Mine
+        artist: Sarcastic Sounds
+        links:
+          youtube: https://www.youtube.com/watch?v=hClltK_TS4s
+      - title: Just Close Your Eyes
+        artist: brillion., Lucid Green
+        links:
+          youtube: https://www.youtube.com/watch?v=BePHcXIpy4E
+      - title: Snug
+        artist: softy
+        links:
+          youtube: https://www.youtube.com/watch?v=jmaA3gQWAAI
+      - title: It All
+        artist: Jhove
+        links:
+          youtube: https://www.youtube.com/watch?v=jzPFxQMkiE4
+      - title: Dots
+        artist: Blue Wednesday
+        links:
+          youtube: https://www.youtube.com/watch?v=gwRKOrmkPz8
+      - title: Black Cherry
+        artist: Purrple Cat
+        links:
+          youtube: https://www.youtube.com/watch?v=KdFWoR3FZB4
+      - title: Inside All Day
+        artist: softy, Hoogway
+        links:
+          youtube: https://www.youtube.com/watch?v=gXXoqLDIRLk
+      - title: Above Clouds
+        artist: Jhove
+        links:
+          youtube: https://www.youtube.com/watch?v=WXE8XmhV-k0
+      - title: Contrasts
+        artist: softy, Kaspa.
+        links:
+          youtube: https://www.youtube.com/watch?v=gR1wpWfW0Gg
+      - title: Auburn
+        artist: Laffey
+        links:
+          youtube: https://www.youtube.com/watch?v=S1aF6c58-gI
+    - foothill tunes: # foothill dining hall plays some tunes
+      - title: Dancing Queen
+        artist: ABBA
+        links:
+          spotify: https://open.spotify.com/track/0GjEhVFGZW8afUYGChu3Rr?si=3b351f5614b64937
+      - title: We Are Young (ft. Janelle Monáe)
+        artist: fun., Janelle Monáe
+        links:
+          spotify: https://open.spotify.com/track/7a86XRg84qjasly9f6bPSD?si=90fd8dc3d0f241b5
+      - title: Freedom
+        artist: Wham!
+        links:
+          spotify: https://open.spotify.com/track/0PhU6i6Kei6x0CH3jocvA3?si=d0026b6920b7420c
+      - title: Funkytown
+        artist: Lipps Inc.
+        links:
+          spotify: https://open.spotify.com/track/37yIrMPeJYRm7zJ8rr3Uvv?si=40bae5fd5bf6499a
+      - title: Let's Groove
+        artist: Earth, Wind & Fire
+        links:
+          spotify: https://open.spotify.com/track/3koCCeSaVUyrRo3N2gHrd8?si=c00d0b136d4c4343
+    - a japanese in berkeley:
+      - title: An American in Paris
+        artist: Gershwin
+        links:
+          spotify: https://open.spotify.com/track/7tMaOTu32tb7G2Ieb9ULY8?si=0edef6d4e9824391
+          classical: true
+      - title: Symphony No. 9 - Choral, Mvt. 1
+        artist: Beethoven
+        links:
+          spotify: https://open.spotify.com/track/3iXWmQ0BMIsnhDGG7yXzUr?si=5f0554a7e4134621
+          classical: true
+      - album: Symphony No. 3 - Eroica
+        artist: Beethoven
+        links:
+          youtube: https://www.youtube.com/watch?v=fhHcty9OM-0
+          classical: true
+      - title: Remote Control
+        artist: Kanye West
+        links:
+          spotify: https://open.spotify.com/track/3SYLoL8KHxdQPYIkfwmUjN?si=c12562304ef64f14
+          meme: true
+      - title: Bad Texter
+        artist: Ryan Woods
+        links:
+          spotify: https://open.spotify.com/track/1qf4LTrblgyq5gKli14LqM?si=a3b2049f1db24787
+      - title: New Light
+        artist: John Mayer
+        links:
+          spotify: https://open.spotify.com/track/3bH4HzoZZFq8UpZmI2AMgV?si=49fcc1b91c71465c
+      - title: Electric Love
+        artist: BØRNS
+        links:
+          spotify: https://open.spotify.com/track/2GiJYvgVaD2HtM8GqD9EgQ?si=a4d09f2afeb44609
+      - title: Tongue Tied
+        artist: Grouplove
+        links:
+          spotify: https://open.spotify.com/track/0GO8y8jQk1PkHzS31d699N?si=75a56818aa6e461f
+      - title: Safe And Sound
+        artist: Capital Cities
+        links:
+          spotify: https://open.spotify.com/track/6Z8R6UsFuGXGtiIxiD8ISb?si=6cb66611c3f74665
+      - title: ロマンチシズム
+        artist: Mrs. GREEN APPLE
+        links:
+          spotify: https://open.spotify.com/track/0JcI7OdALbpSFkyKoufRYs?si=7e5c942e6a5a44c8
+      - title: good 4 u
+        artist: Olivia Rodrigo
+        links:
+          spotify: https://open.spotify.com/track/4ZtFanR9U6ndgddUvNcjcG?si=38f309945a4f46a7
+      - title: deja vu
+        artist: Olivia Rodrigo
+        links:
+          spotify: https://open.spotify.com/track/6HU7h9RYOaPRFeh0R3UeAr?si=b35af6823c954d67
+      - title: Virtual Aerobics
+        artist: Wallows
+        links:
+          spotify: https://open.spotify.com/track/1fpGZJnHXFEbq8UIWIKmHH?si=948ad66a29114db2
+      - title: Colors
+        artist: Stella jang
+        links:
+          spotify: https://open.spotify.com/track/1oACG26rFg4XwAkW5oGGUa?si=95002d5e32604d7e
+      - title: SLOW DANCING IN THE DARK
+        artist: Joji
+        links:
+          spotify: https://open.spotify.com/track/0rKtyWc8bvkriBthvHKY8d?si=1b525da9e94d4a55
+      - title: Sofia
+        artist: Clairo
+        links:
+          spotify: https://open.spotify.com/track/7B3z0ySL9Rr0XvZEAjWZzM?si=f21f1116620c490d
+      - title: Heat Waves
+        artist: Glass Animals
+        links:
+          spotify: https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx?si=cd2387b65f324458
+      - title: DOLLA SIGN SLIME (ft. Megan Thee Stallion)
+        artist: Lil Nas X, Megan Thee Stallion
+        links:
+          spotify: https://open.spotify.com/track/7zQirOExB0VR8yWUOqYeio?si=8a8e171f165c45d5
+          tiktok: true
+      - title: INDUSTRY BABY (ft. Jack Harlow)
+        artist: Lil Nas X, Jack Harlow
+        links:
+          spotify: https://open.spotify.com/track/5Z9KJZvQzH6PFmb8SNkxuk?si=3d3245a0d474461a
+          tiktok: true
+      - title: My Universe
+        artist: Coldplay, BTW
+        links:
+          spotify: https://open.spotify.com/track/3FeVmId7tL5YN8B7R3imoM?si=ffd112fec49c4e8e
+      - title: Eleanor Rigby
+        artist: Cody Fry
+        links:
+          spotify: https://open.spotify.com/track/62P3CMQAknHW4iftsBD41Y?si=7cfa3a416ddd4899
+          tiktok: true
+  summer:
+    - a long summer round 2:
+      - title: Prince Igor, Polovtsian Dances
+        artist: Borodin
+        links:
+          spotify: https://open.spotify.com/track/0qW7Z4MN8QnTtgDGZUj6nB?si=47862af9017e4569
+          classical: true
+      - title: Among Drip Song 2
+        artist: Leonz
+        links:
+          youtube: https://www.youtube.com/watch?v=EJ_T_lno9TI
+      - album: Symphony No. 9 - From the New World
+        artist: Dvořák
+        links:
+          youtube: https://www.youtube.com/watch?v=jOofzffyDSA
+          classical: true
+      - title: Heat Waves
+        artist: Glass Animals
+        links:
+          spotify: https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx?si=d9d993bf63254751
+      - title: Tangerine
+        artist: Glass Animals
+        links:
+          spotify: https://open.spotify.com/track/5VGEgFZfWBoEOGb3Vlo3rU?si=e79a7553822d43c7
+      - title: Breezeblocks x Take a slice
+        artist: Cole Russo, alt-J, Glass Animals
+        links:
+          youtube: https://www.youtube.com/watch?v=DGNa86POIb8
+          tiktok: true
+      - title: Savage Love (Laxed - Siren Beat)
+        artist: Jawsh 685, Jason Derulo
+        links:
+          spotify: https://open.spotify.com/track/1xQ6trAsedVPCdbtDAmk0c?si=c25dbea7153c48d7
+      - title: telepatía
+        artist: Kali Uchis
+        links:
+          spotify: https://open.spotify.com/track/6tDDoYIxWvMLTdKpjFkc1B?si=7fc6fbc6a8f74581
+          tiktok: true
+      - title: Build a Bitch
+        artist: Bella Poarch
+        links:
+          spotify: https://open.spotify.com/track/7BoobGhD4x5K96Me0hqC8Q?si=735692bc156a41d8
+          tiktok: true
+      - title: MONTERO (Call Me By Your Name)
+        artist: Lil Nas X
+        links:
+          spotify: https://open.spotify.com/track/67BtfxlNbhBmCDR2L2l8qd?si=e89ded6ada824d3d
+          tiktok: true
+      - album: Overture, Scherzo, and Finale
+        artist: Schumann
+        links:
+          youtube: https://www.youtube.com/watch?v=79feDtl96Wg
+          classical: true
+  spring:
+    - sussy baka imposter amogus 🤪🥵🤤😩🥶🤩:
+      - title: Astronaut In The Ocean
+        artist: Masked Wolf
+        links:
+          youtube: https://www.youtube.com/watch?v=MEg-oqI9qmw
+          tiktok: true
+          meme: true
+      - title: chug jug with you (lofi)
+        artist: teland, Leviathan, Estelle, Kanye West
+        links:
+          spotify: https://open.spotify.com/track/6UpXDbJMIrtQXPuJx8vZzF?si=50032d5ab8934fb3
+      - title: Chug Jug With You
+        artist: Leviathan, Estelle, Kanye West
+        links:
+          youtube: https://www.youtube.com/watch?v=QqRLVFRe9AU
+          tiktok: true
+          meme: true
+      - title: SugarCrash!
+        artist: ElyOtto
+        links:
+          spotify: https://open.spotify.com/track/3FxPbp05KjMBa4HbhAJTH0?si=8d9ac288464343f6
+          tiktok: true
+      - title: IMPOSTER
+        artist: Damian, Be-Twiin
+        links:
+          youtube: https://www.youtube.com/watch?v=oq4yO5G8eAM
+          tiktok: true
+          meme: true
+      - title: Grubhub Ad but they got the drip 😳
+        artist: DonnieTheGuy, Grubhub
+        links:
+          youtube: https://www.youtube.com/watch?v=6TmWuvS1t2U
+          tiktok: true
+          meme: true
+      - title: Delivery Dance
+        artist: Grubhub
+        links:
+          youtube: https://www.youtube.com/watch?v=G-T3qKl6y-c
+          tiktok: true
+          meme: true
+      - title: Out Loud
+        artist: Supermassive, Juliette
+        links:
+          spotify: https://open.spotify.com/track/3l2EblttaJivKCwZsb0NFX?si=cd0395e45c194849
+      - title: still feel.
+        artist: half•alive
+        links:
+          spotify: https://open.spotify.com/track/4EcYqXGZ1MOl7gBLcRO9Ya?si=183c33da13fa47d1
+      - title: Among Us In Real Life
+        artist: Rebecca Zamolo
+        links:
+          youtube: https://www.youtube.com/watch?v=Ns3YxbIhTRM
+          tiktok: true
+          meme: true
+      - title: among us drip major key
+        artist: SharkFaceGamingStuffNThings, Leonz
+        links:
+          youtube: https://www.youtube.com/watch?v=RD80nA_NY8s
+          tiktok: true
+          meme: true
+      - title: Among Us Drip
+        artist: Leonz
+        links:
+          youtube: https://www.youtube.com/watch?v=grd-K33tOSM
+          tiktok: true
+          meme: true
+      - title: Don't Stop Me Now
+        artist: Queen
+        links:
+          spotify: https://open.spotify.com/track/7hQJA50XrCWABAu5v6QZ4i?si=31aa81557972421e
+      - title: Childish Flamingo
+        artist: john56boy, Kero Kero Bonito, Childish Gambino
+        links:
+          youtube: https://www.youtube.com/watch?v=HguKyrS8oWM
+      - title: Sunday Best
+        artist: Surfaces
+        links:
+          spotify: https://open.spotify.com/track/1Cv1YLb4q0RzL6pybtaMLo?si=582c6ba3b4b64147
+      - title: Sofia
+        artist: Clairo
+        links:
+          spotify: https://open.spotify.com/track/7B3z0ySL9Rr0XvZEAjWZzM?si=948a5b01a3844990
+          tiktok: true
+      - album: TENET Soundtrack
+        artist: Ludwig Göransson
+        links:
+          youtube: https://www.youtube.com/playlist?list=PLBKadB95sF45_hO-yB_W3yvgDepkKE0C1
+      - album: The Snow Maiden Suite
+        artist: Rimsky-Korsakov
+        links:
+          youtube: https://www.youtube.com/watch?v=BNQpbtpaOz4
+          classical: true
+'2020':
+  winter:
+    - dark noon: # california wildfires covered the sun & san francisco skyline
+      - title: Ease Out
+        artist: softy
+        links:
+          spotify: https://open.spotify.com/track/5cyZufWEEbEpZgpqqDCA5x?si=3f0f0a4807ba4dc5
+      - title: Hello, World
+        artist: Louie Zong
+        links:
+          youtube: https://www.youtube.com/watch?v=Yw6u6YkTgQ4
+      - title: Rêve Lucide
+        artist: LÜNE
+        links:
+          youtube: https://www.youtube.com/watch?v=qoBIyxWEiOw
+      - title: Mi Pan Su Su Sum
+        artist: Miel Pops
+        links:
+          youtube: https://www.youtube.com/watch?v=0ra3NM2MJj4
+          meme: true
+          tiktok: true
+      - album: Serenade for Strings in C major
+        artist: Tchaikovsky
+        links:
+          youtube: https://www.youtube.com/watch?v=MICksKeZoJU
+          classical: true
+      - album: Romanian Folk Dances
+        artist: Bartók
+        links:
+          youtube: https://www.youtube.com/watch?v=Z50Ooqv1GFg
+          classical: true
+      - title: Roman Carnival Overture
+        artist: Berlioz
+        links:
+          spotify: https://open.spotify.com/track/0mtIYUM4KA2koMOKWmIxFg?si=40387749b3804343
+          classical: true
+    - "who turned off the sun >:(":
+      - title: Jazz Circulation
+        artist: Nugnug, 物語シリーズ
+        links:
+          youtube: https://www.youtube.com/watch?v=OU-VZbMmcNA
+      - title: HOLIDAY
+        artist: Lil Nas X
+        links:
+          spotify: https://open.spotify.com/track/6zFMeegAMYQo0mt8rXtrli?si=ec402cd1f72d4b35
+      - title: Old Town Road
+        artist: Lil Nas X
+        links:
+          spotify: https://open.spotify.com/track/0F7FA14euOIX8KcbEturGH?si=0d35b0fa8a614917
+      - title: Gdzie jest biały węgorz ? (Zejście)
+        artist: Cypis
+        links:
+          spotify: https://open.spotify.com/track/4fNbS43X6yt4iWxLgRqwKa?si=3d6db846a57f4a22
+      - title: Electric Zoo
+        artist: Spongebob Squarepants
+        links:
+          youtube: https://www.youtube.com/watch?v=XF8xFUCSXWA
+          meme: true
+  summer:
+    - zooming badly: # taking the first berk course, ethstd 10ac
+      - album: Djesse Vol. 3
+        artist: Jacob Collier
+        links:
+          youtube: https://www.youtube.com/playlist?list=PLHX_dBxnc8z_RR3ITpYS5AB5TQkGM67BP
+      - title: Béatrice et Bénédict
+        artist: Berlioz
+        links:
+          spotify: https://open.spotify.com/track/6YvSfNcFXhQ2qtWHhX3TUf?si=0ee1c52bb281467f
+          classical: true
+      - title: Light My Fire
+        artist: "(G)I-DLE"
+        links:
+          spotify: https://open.spotify.com/track/3jSMGwspwFJGWIaxNIDWsT?si=d9cbbb33417f44f1
+      - title: トリコ
+        artist: Nissy(西島隆弘)
+        links:
+          spotify: https://open.spotify.com/track/7H5uStZMOGpcVw7eW0eyTi?si=24d4997127be4d1b
+      - title: MAZE (Japanese ver.)
+        artist: "(G)I-DLE"
+        links:
+          spotify: https://open.spotify.com/track/2ik3E5B2U1o78RfQXsmMWU?si=296506c636d4431c
+      - title: Beautiful (Japanese ver.)
+        artist: MONSTA X
+        links:
+          spotify: https://open.spotify.com/track/4K0qwWVMAOw4vpAnDoxICR?si=d9a4a60b3220451d
+      - title: Song for Denise
+        arist: Piano Fantasia
+        links:
+          spotify: https://open.spotify.com/track/69Z9CGFvblV0qTb6wMoCpP?si=e591ad39b0ef4e4c
+          tiktok: true
+      - title: 小苹果
+        artist: 筷子兄弟
+        links:
+          spotify: https://open.spotify.com/track/4H3PAT1dIkNNSqKfNKqhl9?si=2f5681a43c0c40db
+      - title: Sweet but Psycho
+        artist: Ava Max
+        links:
+          spotify: https://open.spotify.com/track/25sgk305KZfyuqVBQIahim?si=5952a99d55584388
+      - title: LOVE SCENARIO (JP Ver.)
+        artist: iKON
+        links:
+          spotify: https://open.spotify.com/track/5VsIvVknLye3blPELouskQ?si=36bc536a9e3b4da8
+      - title: 我願意平凡的陪在你身旁
+        artist: 王七七
+        links:
+          spotify: https://open.spotify.com/track/2e2TpR8wOUZcetxEfPseKI?si=18d3a2bb52294657
+      - title: 放個大招給你看 (OPPO Reno 宣傳曲)
+        artist: Ryan.B
+        links:
+          spotify: https://open.spotify.com/track/6LAHkI7op52Y4NoK2PGMlH?si=0d21ff34a54247f7
+      - title: Señorita
+        artist: Shawn Mendes, Camila Cabello
+        links:
+          spotify: https://open.spotify.com/track/0TK2YIli7K1leLovkQiNik?si=f6082cf3de124bd8
+          tiktok: true
+      - title: Beautiful Now
+        artist: Zedd, Jon Bellion
+        links:
+          spotify: https://open.spotify.com/track/2ISSQPb9LHHiV6ng2NXosL?si=df668b10fa6447c5
+      - title: 少年
+        artist: 梦然
+        links:
+          spotify: https://open.spotify.com/track/10sAUW12kTg7bMs1XKnmTi?si=0a6a1d312de64ab6
+      - title: 陽光彩虹小白馬
+        artist: 大张伟 (Wowkie Da)
+        links:
+          spotify: https://open.spotify.com/track/4VYv4gIbr6XPWKTddnGBlh?si=1c89e7586c6c4f98
+      - title: Caffeine
+        artist: 秋山黄色 (Kiro Akiyama)
+        links:
+          spotify: https://open.spotify.com/track/6aRZWMSePVPZIVX95WN0uI?si=a10fab85f2734f6c
+    - a long summer: # school "ended" early bc of covid-19
+      - title: Overture Prince Igor
+        artist: Borodin
+        links:
+          spotify: https://open.spotify.com/track/2f6Go7PF97XqfsK1qAtX7a?si=6d7f54097aa24f99
+          classical: true
+      - album: Concerto grosso No. 1
+        artist: Bloch
+        links:
+          youtube: https://www.youtube.com/watch?v=myTFlb9cfCw
+          classical: true
+      - title: Spring Day (Japanese ver.)
+        artist: BTS
+        links:
+          spotify: https://open.spotify.com/track/0I08kzlwHEkBNCioRjODFc?si=be4909884d344b50
+      - title: Replay -君は僕の everything-
+        artist: SHINee
+        links:
+          spotify: https://open.spotify.com/track/460eZcZsxNbWcs1DQDC9P8?si=ed7c9ada93754b69
+      - title: LA ・ LA ・ LA LOVE SONG
+        artist: Exile
+        links:
+          spotify: https://open.spotify.com/track/4fz3FktpOpbQ4YzG8yslvX?si=857a1df7c424484c
+      - title: MUSIC!!!
+        artist: AAA
+        links:
+          spotify: https://open.spotify.com/track/6ZbObRJdkY5qFIgfy76vRH?si=285ba2c2e949482d
+      - title: DANCE DANCE DANCE
+        artist: Nissy(西島隆弘)
+        links:
+          spotify: https://open.spotify.com/track/6AabTjMFAaSflVreR9ZVwa?si=0be86118a67a4584
+      - title: 恋音と雨空
+        artist: AAA
+        links:
+          spotify: https://open.spotify.com/track/46gSY0U7ZZCmd7EuJuo15N?si=ddee1e0f9f0d41ef
+      - title: Follow (Japanese ver.)
+        artist: MONSTA X
+        links:
+          spotify: https://open.spotify.com/track/09GZ4SoXrzRpQ8F0NhYGXc?si=80ef593e24554162
+      - title: ドラえもん
+        artist: 星野源 (Gen Hoshino)
+        links:
+          spotify: https://open.spotify.com/track/2pcuXnZhTirLXsfXGVFTv2?si=6b40c3cc0f5c4f0a
+      - title: 恋
+        artist: 星野源 (Gen Hoshino)
+        links:
+          spotify: https://open.spotify.com/track/4nmjL1mUKOAfAbo9QG9tSE?si=afaa52edf6d8483e
+      - title: A-RA-SHI:Reborn
+        artist: ARASHI(嵐)
+        links:
+          spotify: https://open.spotify.com/track/3t5I7uoAOyRtzkAVaHgmfL?si=c115f3553cca45d8
+      - title: Run (Japanese ver.)
+        artist: BTS
+        links:
+          spotify: https://open.spotify.com/track/0z9xZhi7E8M6JDTL5AvqKh?si=67d817842938419d
+      - title: Find The Answer
+        artist: ARASHI(嵐)
+        links:
+          spotify: https://open.spotify.com/track/5Gap4rp2OPWWYxi517OG7L?si=ae606b9311344001
+      - title: Neokkoya (Pick Me) (Japanese ver.)
+        artist: PRODUCE 48
+        links:
+          spotify: https://open.spotify.com/track/1LShDXXs40R8bQFNBBupI3?si=6a426f3d34dd4a45
+      - title: Stuck (Japanese ver.)
+        artist: MONSTA X
+        links:
+          spotify: https://open.spotify.com/track/0LpNycw60z4LFKASRrYDx6?si=6c9a739eb0d840ec
+      - title: アイデア
+        artist: 星野源 (Gen Hoshino)
+        links:
+          spotify: https://open.spotify.com/track/30QnX1bcrFYqWQNKfWclr8?si=58d3ce60f2ba4958
+      - title: I'm Here
+        artist: 三浦大知 (Daichi Miura)
+        links:
+          spotify: https://open.spotify.com/track/5PYwENRSNMq2fe2dL8RHjn?si=3368d3c45a40455a
+      - title: 恋する季節
+        artist: Naoto Inti Raymi
+        links:
+          spotify: https://open.spotify.com/track/25eQea2tq7ELnlcdCEqkJA?si=cb646aa044cf4a42
+    - late night discord vc minecraft sesh: # west-3 and the others
+      - album: Symphonie fantastique
+        artist: Berlioz
+        links:
+          youtube: https://www.youtube.com/watch?v=5HgqPpjIH5c
+          classical: true
+      - title: bad guy
+        artist: Billie Eilish
+        links:
+          youtube: https://www.youtube.com/watch?v=DyDfgMOUjCI
+      - title: Dream Glow (BTS World Original Soundtrack) [Pt. 1]
+        artist: BTS, Charli XCX
+        links:
+          spotify: https://open.spotify.com/track/4c1WgUnHXq2LEncGHKgj1I?si=cfdbb210730a4247
+      - title: "Trivia 起: Just Dance"
+        artist: BTS
+        links:
+          spotify: https://open.spotify.com/track/0usLRFLmYXYahKNgXxsuJc?si=343818a00736490b
+      - title: Save Me (Japanese ver.)
+        artist: BTS
+        links:
+          spotify: https://open.spotify.com/track/3ynWDFCcw9CXngKnxoVIfj?si=67b0d4e65dcd43c7
+      - title: Best of Me (Japanese ver.)
+        artist: BTS
+        links:
+          spotify: https://open.spotify.com/track/6yGKx4J9UdMp7tcaGXWzDj?si=e7a580d7453b4818
+      - title: 君に届け
+        artist: flumpool
+        links:
+          spotify: https://open.spotify.com/track/0kA7SWxWPYqSyIbMl51X5b?si=fe807ad121bf40e3
+      - title: LOVE
+        artist: E-girls
+        links:
+          spotify: https://open.spotify.com/track/1D9HgUfWRLG2fAZ4aQKpio?si=bc27ca8d61dd4025
+      - title: 猫になりたい
+        artist: IZ*ONE (아이즈원)
+        links:
+          spotify: https://open.spotify.com/track/0mzPIqyMzN5L7L3PBgVxJD?si=db2afb6bfe7f4078
+      - title: ご機嫌サヨナラ
+        artist: IZ*ONE (아이즈원)
+        links:
+          spotify: https://open.spotify.com/track/23yxomsxPWo6IPDcFLSvn8?si=5e404c4556264686
+      - title: 恋す肌
+        artist: Nissy(西島隆弘)
+        links:
+          spotify: https://open.spotify.com/track/4aGCLYrnIwBt0Gutt4rd8c?si=31187a0b571b4539
+      - title: SPOTLIGHT
+        artist: MONSTA X
+        links:
+          spotify: https://open.spotify.com/track/3f50PPDmlxAduJaOTvsTfL?si=7f4d7fc218a44508
+      - title: Vampire
+        artist: IZ*ONE (아이즈원)
+        links:
+          spotify: https://open.spotify.com/track/5ixWzfH7Z3o5TM10WJPYCK?si=64013fbc79d24b1d
+      - title: KILL THIS LOVE (JP Ver.)
+        artist: BLACKPINK
+        links:
+          spotify: https://open.spotify.com/track/3mpGXkkjhY8K5C9OsaCMBo?si=e839fc7754a84b6d
+      - title: Violeta
+        artist: IZ*ONE (아이즈원)
+        links:
+          spotify: https://open.spotify.com/track/0ahbzg4GCq3wJzUM3cjS3N?si=2738246ca57b46da
+      - title: Magnetic
+        artist: MONSTA X, Sebastian Yatra
+        links:
+          spotify: https://open.spotify.com/track/4ZtiN13yPgoDtQB8TkIrv1?si=54b9aada5dda4892
+      - title: AS IF IT'S YOUR LAST (Japanese ver.)
+        artist: BLACKPINK
+        links:
+          spotify: https://open.spotify.com/track/5m8wiO2ySMpCtYSwHatWQr?si=e8f849bb04f74adf
+      - title: Dance The Night Away (Japanese ver.)
+        artist: TWICE
+        links:
+          spotify: https://open.spotify.com/track/3picEaAiFbUtP9YDoM7J73?si=55832d03b9434efb
+      - title: Steal Your Heart
+        artist: MONSTA X
+        links:
+          spotify: https://open.spotify.com/track/1MJysUk6TYYFdGRdj61iug?si=8c9cdb03f67e4c83
+      - title: 好きと言わせたい
+        artist: IZ*ONE (아이즈원)
+        links:
+          spotify: https://open.spotify.com/track/7nimCdASI4W4j5C4zqvKO5?si=ba371d781b994405
+      - title: AYAYAYA
+        artist: IZ*ONE (아이즈원)
+        links:
+          spotify: https://open.spotify.com/track/4Cuh5uqjIgUw4GRxqABUxh?si=d38d67d8c6914247
+      - title: I Love...
+        artist: Official 髭男 dism
+        links:
+          spotify: https://open.spotify.com/track/4pRqq3MwcqitKqNO8rOrOb?si=84fed3cfb6004b5f
+      - title: 愛 tears
+        artist: Nissy(西島隆弘)
+        links:
+          spotify: https://open.spotify.com/track/67quWcug8Ems1SfRAYHgVq?si=228426daf56b488d
+      - title: Sakura
+        artist: ARASHI(嵐)
+        links:
+          spotify: https://open.spotify.com/track/13FuLyB6YSfPxp2w4sW0t8?si=78e9eeabb7604f64
+      - title: Beat Generation
+        artist: フェアリーズ (Fairies)
+        links:
+          spotify: https://open.spotify.com/track/0MNJJOGJMjaOcAGWard20O?si=7d5b53628fca410f
+      - title: 恋愛サーキュレーション
+        artist: 物語シリーズ
+        links:
+          spotify: https://open.spotify.com/track/5P8lyudWE7HQxb4ludLbEm?si=56812098b3054833
+      - title: FIESTA
+        artist: IZ*ONE (아이즈원)
+        links:
+          spotify: https://open.spotify.com/track/71vPAjlG1x606483GTJNhY?si=d8ab8c76925d41a1
+      - title: 恋のロードショー
+        artist: フェアリーズ (Fairies)
+        links:
+          youtube: https://www.youtube.com/watch?v=HylC6f8FLtY
+  spring:
+    - music board: # the band class project
+      - title: 神さま達
+        artist: 久石 譲 (Joe Hisaishi)
+        links:
+          spotify: https://open.spotify.com/track/3A08CelXmym3C9KpaG0ct4?si=ce0317f1283945bd
+      - title: Danzón No. 2
+        artist: Márquez
+        links:
+          spotify: https://open.spotify.com/track/4vZSmPvl1o2UCgvJqMaAaW?si=a47d2177908d4dc2
+          classical: true
+      - title: The Typewriter # wrong time?
+        artist: Anderson
+        links:
+          spotify: https://open.spotify.com/track/4VVU7vZh4GAq6Hcc1zxqJy?si=57e232c62e0a44a1
+          classical: true
+      - album: Rhapsody on a Theme of Paganini # wrong time?
+        artist: Rachmaninoff
+        links:
+          youtube: https://www.youtube.com/watch?v=ppJ5uITLECE
+          classical: true
+      - title: Pavane pour une infante défunte
+        artist: Ravel
+        links:
+          spotify: https://open.spotify.com/track/1VbhI8C55rEVj5W9tohLcJ?si=fb414e036f7e433d
+          classical: true
+      - title: Prelude To The Afternoon Of A Faun
+        artist: Debussy
+        links:
+          spotify: https://open.spotify.com/track/3xGPS59RhE5dNB3yPcMeL6?si=914646b17ed842c7
+          classical: true
+      - album: Piano Concerto in A Minor # wrong time?
+        artist: Grieg
+        links:
+          youtube: https://www.youtube.com/watch?v=I1Yoyz6_Los
+          classical: true
+      - album: Symphony No. 1 # wrong time?
+        artist: Bernstein
+        links:
+          youtube: https://www.youtube.com/watch?v=uic4qcyDmDQ
+          classical: true
+      - title: El salon Mexico # wrong time?
+        artist: Bernstein
+        links:
+          spotify: https://open.spotify.com/track/3jB0VsZpeqgwstIR63sBBe?si=33490df184f74bdb
+          classical: true
+      - album: Scheherazade # wrong time?
+        artist: Rimsky-Korsakov
+        links:
+          youtube: https://www.youtube.com/watch?v=SQNymNaTr-Y
+          classical: true
+    - let's trade music: # swap spotify profiles
+      - title: September
+        artist: Earth, Wind & Fire
+        links:
+          youtube: https://www.youtube.com/watch?v=Gs069dndIYk
+      - title: The Loser
+        artist: Derrick Harriott
+        links:
+          spotify: https://open.spotify.com/track/2hTRr2UxDJmHYXXgW89Mhx?si=bb8fc64d0bc74273
+      - title: Komm, süsser Tod
+        artist: Astrophysics
+        links:
+          spotify: https://open.spotify.com/track/7E6VM4eg8ADYdgbMnXO97d?si=e0f7c7f1821c4395
+      - title: Party Rock Anthem
+        artist: LMFAO, Lauren Bennett, GoonRock
+        links:
+          spotify: https://open.spotify.com/track/0IkKz2J93C94Ei4BvDop7P?si=c9859b5bf0764e84
+      - title: Final Song
+        artist: MØ
+        links:
+          spotify: https://open.spotify.com/track/4qqArAiTPueDxIp7cf87h7?si=c5d2f1f689d44a4c
+      - title: Slow Dancing In The Dark (Loud Luxury Remix)
+        artist: Joji, Loud Luxury
+        links:
+          spotify: https://open.spotify.com/track/59pC3ONM6ggVn0CYi0l1KD?si=ffc371b44ba340d9
+      - title: San Francisco (ft. Sofia Carson)
+        artist: Galantis, Sofia Carson
+        links:
+          spotify: https://open.spotify.com/track/7y7fPt0Tbv7IW4NLjrIpG4?si=74241cfc733c4d91
+      - title: WHISTLE (JP Ver.)
+        artist: BLACKPINK
+        links:
+          youtube: https://www.youtube.com/watch?v=rCr57C1F_38
+      - title: Hideaway
+        artist: Jacob Collier
+        links:
+          youtube: https://www.youtube.com/watch?v=4v3zyPEy-Po
+      - title: Flintstones
+        artist: Jacob Collier
+        links:
+          youtube: https://www.youtube.com/watch?v=zua831utwMM
+'2019':
+  winter:
+    - essays that will change my life: # filling out college apps
+      - album: Piano Concerto No. 3 - Gift of Dreams
+        artist: Rautavaara
+        links:
+          youtube: https://www.youtube.com/watch?v=BunczhLlJAo
+          classical: true
+      - album: Piano Concerto in G Major
+        artist: Ravel
+        links:
+          youtube: https://www.youtube.com/watch?v=cJOW5mlhH_Y
+          classical: true
+      - title: Anthem-Part 2
+        artist: Glass
+        links:
+          spotify: https://open.spotify.com/track/7A6BNg4vfCa8Ll6X64iHSb?si=503fd84a4fd64a1f
+    - math circles and cs programs: # driving to southbay
+      - album: La mer
+        artist: Debussy
+        links:
+          youtube: https://www.youtube.com/watch?v=FOCucJw7iT8
+          classical: true
+      - title: Alborada del gracioso - Assez vif - Plus lent - Au movement
+        artist: Ravel
+        links:
+          spotify: https://open.spotify.com/track/072kJqmswax8VmfmgejEIY?si=1fc2c91c3d864d60
+          classical: true
+      - album: The Firebird Suite
+        artist: Stravinsky
+        links:
+          youtube: https://www.youtube.com/watch?v=RZkIAVGlfWk
+          classical: true
+      - album: Pictures At An Exhibition
+        artist: Mussorgsky
+        links:
+          youtube: https://www.youtube.com/watch?v=Sq7Qd9PSmR0
+          classical: true
+      - album: Lyrische Suite
+        artist: Berg
+        links:
+          youtube: https://www.youtube.com/watch?v=GKAVN5ZUdbw
+          classical: true
+      - album: String Quartet, M. 35
+        artist: Ravel
+        links:
+          youtube: https://www.youtube.com/watch?v=ieRQyyPowH0
+          classical: true
+  summer:
+    - summer symphony:
+      - title: Cello Concerto No. 1 in A minor
+        artist: Saint-Saëns
+        links:
+          spotify: https://open.spotify.com/track/0Sbp1lMRZEBgPYv2loprBH?si=9da4117b9ce0411f
+          classical: true
+      - album: Symphony in C major
+        artist: Bizet
+        links:
+          youtube: https://www.youtube.com/watch?v=-xk7TVPyboY
+          classical: true
+      - album: Suite in D major
+        artist: Saint-Saëns
+        links:
+          youtube: https://www.youtube.com/watch?v=v9paWJgMId0
+          classical: true
+    - i'm mr. worldwide: # using douyin, again
+      - title: We No Speak Americano
+        artist: Yolanda Be Cool, DCup
+        links:
+          spotify: https://open.spotify.com/track/6lFKHp2pjDlbYeeqZ0olm8?si=a2b1cab96dad49e8
+          douyin: true
+      - title: That Girl
+        artist: Olly Murs
+        links:
+          spotify: https://open.spotify.com/track/4yYyidLY7wb22VEIL6Hzcj?si=22ef8964df4e4276
+          douyin: true
+      - title: Touch The Sky
+        artist: Cedric Gervais, Digital Farm Animals, Dallas Austin
+        links:
+          spotify: https://open.spotify.com/track/2xQhpYSiYn5DQfr73aOTTM?si=77abc9e6fe91434a
+          douyin: true
+      - title: End of The Night
+        artist: Danny Avila
+        links:
+          spotify: https://open.spotify.com/track/46n9OJc7LOIVdj8t2l5WA5?si=e66faf3f04584f4a
+          douyin: true
+      - title: Friendships
+        artist: Pascal Letoublon
+        links:
+          spotify: https://open.spotify.com/track/3S2XkZJH5P3AqYk8ChYsWB?si=a5f1b1182d5a4d5e
+          douyin: true
+    - 2am study sesh with ac in the hot northeast summer: # camping out in the science center, annenberg hall, and holworthy hall
+      - title: What is Love? (Japanese ver.)
+        artist: TWICE
+        links:
+          youtube: https://www.youtube.com/watch?v=3zQXMPbK5jU
+      - title: Heart Shaker (Japanese ver.)
+        artist: TWICE
+        links:
+          youtube: https://www.youtube.com/watch?v=P5n8YFUTvYw
+      - title: BDZ
+        artist: TWICE
+        links:
+          youtube: https://www.youtube.com/watch?v=CMNahhgR_ss
+      - title: LATATA (Japanese ver.)
+        artist: "(G)I-DLE"
+        links:
+          youtube: https://www.youtube.com/watch?v=ypNJMDlJvY4
+      - title: Pretender
+        artist: Official 髭男 dism
+        links:
+          youtube: https://www.youtube.com/watch?v=TQ8WlA2GXbk
+      - title: Metropolis～メトロポリス～
+        artist: フェアリーズ (Fairies)
+        links:
+          youtube: https://www.youtube.com/watch?v=xN2rT4bv12U
+      - title: HERO (Japanese ver.)
+        artist: MONSTA X
+        links:
+          spotify: https://open.spotify.com/track/0chB9FmSguQnkKcjFix9mV?si=d7bda4f9201d4f1f
+      - title: DDU-DU DDU-DU (JP Ver.)
+        artist: BLACKPINK
+        links:
+          youtube: https://www.youtube.com/watch?v=a1aV8IUgP8Q
+      - title: HAVE A NICE DAY
+        artist: WORLD ORDER
+        links:
+          youtube: https://www.youtube.com/watch?v=_mkiGMtbrPM
+      - title: Turning Up
+        artist: ARASHI(嵐)
+        links:
+          youtube: https://www.youtube.com/watch?v=PhSdewBIQsc
+      - title: HAPPY HAPPY
+        artist: TWICE
+        links:
+          youtube: https://www.youtube.com/watch?v=3n9rDwpa6QA
+      - title: Breakthrough
+        artist: TWICE
+        links:
+          youtube: https://www.youtube.com/watch?v=ZdKYi5ekshM
+      - title: Buenos Aires
+        artist: IZ*ONE (아이즈원)
+        links:
+          youtube: https://www.youtube.com/watch?v=M46FRJsB0Qw
+      - title: Change My Life
+        artist: フェアリーズ (Fairies)
+        links:
+          youtube: https://www.youtube.com/watch?v=wyPwFPYZpNc
+      - title: ア・ラ・モード
+        artist: ハシヤスメ・アツコ (BiSH)
+        links:
+          youtube: https://www.youtube.com/watch?v=K1NfkkCpNrw
+      - title: NA
+        artist: Nissy(西島隆弘)
+        links:
+          youtube: https://www.youtube.com/watch?v=Mj_NgkTmi_U
+      - title: 宿命 (Shukumei)
+        artist: Official 髭男 dism
+        links:
+          youtube: https://www.youtube.com/watch?v=-kgOFJG881I
+      - title: シンデレラフィット
+        artist: E-girls
+        links:
+          youtube: https://www.youtube.com/watch?v=yjAFThnxJgU
+      - title: X-Phenomenon
+        artist: MONSTA X
+        links:
+          youtube: https://www.youtube.com/watch?v=mz30uystwTY
+      - title: 留学生
+        artist: MONKEY MAJIK, 岡崎体育
+        links:
+          youtube: https://www.youtube.com/watch?v=lvEVP7NPklU
+      - title: ウマーベラス
+        artist: MONKEY MAJIK, サンドウィッチマン
+        links:
+          youtube: https://www.youtube.com/watch?v=XWo627F7CeU
+'2018':
+  winter:
+    - first live sfsymphony:
+      - album: Symphony No. 2
+        artist: Borodin
+        links:
+          youtube: https://www.youtube.com/watch?v=4CCe4_SPgLc
+          classical: true
+      - album: The Miraculous Mandarin
+        artist: Bartók
+        links:
+          youtube: https://www.youtube.com/watch?v=uGuE20hKaDw
+          classical: true
+  summer:
+    - meet the city of fog: # welcome to Daly City
+      - album: Le Tombeau de Couperin (Arr. Kocsis)
+        artist: Kocsis, Ravel
+        links:
+          youtube: https://www.youtube.com/watch?v=Wkt8T38aaMw
+          classical: true
+      - title: Super Mario 64 - Dire Dire Docks
+        artist: 近藤浩治 (Koji Kondo)
+        links:
+          youtube: https://www.youtube.com/watch?v=TO7z2FYB_mo
+      - title: Super Mario 64 - File Select
+        artist: 近藤浩治 (Koji Kondo)
+        links:
+          youtube: https://www.youtube.com/watch?v=72hshWLPQGM
+      - album: Appalachian Spring
+        artist: Copland
+        links:
+          youtube: https://www.youtube.com/watch?v=8e3rVcSy3IQ
+          classical: true
+      - title: Introduction et Allegro
+        artist: Ravel
+        links:
+          spotify: https://open.spotify.com/track/2n4otZ8p3EQC2j77i3TWOa?si=349dfb6fc7a44851
+          classical: true
+      - album: Le Carnaval des Animaux
+        artist: Saint-Saëns
+        links:
+          youtube: https://www.youtube.com/watch?v=7SjagpXeNhM
+          classical: true
+    - a last midwest summer: # jogging in West Lafayette
+      - title: Slava! - A Political Overture
+        artist: Bernstein
+        links:
+          youtube: https://www.youtube.com/watch?v=c6GyiGMM9pE
+          spotify: https://open.spotify.com/track/3UCuaAOarddxqWyvrMEFTH?si=ff08e87cc32d483d
+          classical: true
+      - title: I Knew You Were Trouble.
+        artist: Taylor Swift
+        links:
+          spotify: https://open.spotify.com/track/72jCZdH0Lhg93z6Z4hBjgj?si=4dd6482a07a44edc
+          douyin: true
+      - title: Dura
+        artist: Daddy Yankee
+        links:
+          spotify: https://open.spotify.com/track/6KuqAtoeVzxAYOaMveLNpH?si=02e057df10e64368
+          douyin: true
+      - title: Trippy Love + Najia Remix
+        artist: Vexento, other
+        links:
+          youtube: https://www.youtube.com/watch?v=7rUaZknCUSs
+          douyin: true
+      - title: 9277 (北岛诗 cover)
+        artist: 北岛诗, 宋孟君, 威仔, vinnie lee
+        links:
+          youtube: https://www.youtube.com/watch?v=XH7uiQAGyTA
+          douyin: true
+      - title: Wait a Minute!
+        artist: WILLOW
+        links:
+          spotify: https://open.spotify.com/track/0y60itmpH0aPKsFiGxmtnh?si=92a7fe519f454b4e
+          douyin: true
+      - title: The Planets - Jupiter # played excerpt at graduation
+        artist: Holst
+        links:
+          spotify: https://open.spotify.com/track/59Id4KrBWiizuq53doxWtp?si=b2113b26e5b14333
+          classical: true
+      - title: Bacchanale # school symph issma
+        artist: Saint-Saëns
+        links:
+          spotify: https://open.spotify.com/track/1vgInU9qUZYSW0VT9TJuT6?si=fd0d05a45ede4554
+          classical: true
+      - title: Holberg Suite, Mvmt. 1
+        artist: Grieg
+        links:
+          spotify: https://open.spotify.com/track/1KQs44aIEmFdutatasTpMr?si=b09999fe10544a79
+          classical: true
+    - i'm so glad i did WVYS: # last concert
+      - title: Symphony No. 8
+        artist: Dvořák
+        links:
+          youtube: https://www.youtube.com/watch?v=QXAv-NGppFw
+          classical: true
+      - album: Cello Concerto No. 1
+        artist: Shostakovich
+        links:
+          youtube: https://www.youtube.com/watch?v=i6rU9AYzCws
+          classical: true
+  spring:
+    - ocmc 3: # the last time i did this lmao
+      - album: Symphony No. 5
+        artist: Tchaikovsky
+        links:
+          youtube: https://www.youtube.com/watch?v=a_B02BZp-5Y
+          classical: true
+      - album: Octet
+        artist: Mendelssohn
+        links:
+          youtube: https://www.youtube.com/watch?v=KrITNrgQHuE
+          classical: true
+      - title: Danse macabre
+        artist: Saint-Saëns
+        links:
+          spotify: https://open.spotify.com/track/3e0dy2rIp2OMa6NuYk0j8x?si=f639863c5d814355
+          classical: true
+      - title: The Sorcerer's Apprentice
+        artist: Dukas
+        links:
+          spotify: https://open.spotify.com/track/2GKGGciyHJr7tjihYb3at1?si=5851911bc45b4126
+          classical: true
+    - what an unorthodox program: # WVYS plays interesting works
+      - album: Lincoln Portrait
+        artist: Copland
+        links:
+          spotify: https://open.spotify.com/track/1ejPv1iejXrwzPoBQcwYt2?si=4cde949d0ee24502
+          classical: true
+      - album: Sea Pictures
+        artist: Elgar
+        links:
+          youtube: https://www.youtube.com/watch?v=GauIMo8Manc
+          classical: true
+      - album: Spring Festival Overture
+        artist: Li
+        links:
+          spotify: https://open.spotify.com/track/4x8IaSAWUGKaCHki1T188r?si=32ddc3c605fa483b
+          classical: true
+'2017':
+  autumn:
+    - taiga's first symphony:
+      - album: Symphony No. 5
+        artist: Mendelssohn
+        links:
+          youtube: https://www.youtube.com/watch?v=otcrnrQAwD8
+          classical: true
+      - album: Ma mère l'Oye suite
+        artist: Ravel
+        links:
+          youtube: https://www.youtube.com/watch?v=5U7osEigQZM
+          classical: true
+      - title: Tzigane
+        artist: Ravel
+        links:
+          spotify: https://open.spotify.com/track/1PGcZoc8r1mj4FZ066xpDP?si=64c887d6b6ec446a
+          classical: true
+  spring:
+    - the third conductor: # when WVYS had 3 conductors
+      - title: Overture to Candide
+        artist: Bernstein
+        links:
+          youtube: https://www.youtube.com/watch?v=zn5bhJ5YX6U
+          spotify: https://open.spotify.com/track/6yul9NbwH5cK7T0Pu6Twtu?si=da62c74161e84d35
+          classical: true
+      - title: Academic Festival Overture
+        artist: Brahms
+        links:
+          spotify: https://open.spotify.com/track/4NhNYjpTTxJcrDggAqjuFY?si=cdbb6526b90c4765
+          classical: true
+      - album: El sombrero de tres picos
+        artist: de Falla
+        links:
+          youtube: https://www.youtube.com/watch?v=p387mKF-Uws
+          classical: true
+    - ocmc 2:
+      - album: Petite suite
+        artist: Debussy
+        links:
+          youtube: https://www.youtube.com/watch?v=JSO8Z6YmZtY
+          classical: true
+      - title: Symphony No. 40
+        artist: Mozart
+        links:
+          spotify: https://open.spotify.com/track/3lQRsOCX2YCVSOK69Sw7Ct?si=e261dc450c174b85
+          classical: true
+      - album: Violin Concerto in D Minor
+        artist: Sibelius
+        links:
+          youtube: https://www.youtube.com/watch?v=J0w0t4Qn6LY
+          classical: true
+      - album: Petrushka
+        artist: Stravinsky
+        links:
+          youtube: https://www.youtube.com/watch?v=esD90diWZds
+          classical: true
+      - album: The Rite of Spring
+        artist: Stravinsky
+        links:
+          youtube: https://www.youtube.com/watch?v=EkwqPJZe8ms
+          classical: true
+    - the second conductor: # when WVYS had 3 conductors
+      - title: Billy the Kid, Ballet Suite
+        artist: Copland
+        links:
+          youtube: https://www.youtube.com/watch?v=wdhE0R4qGX0
+          classical: true
+      - album: Capriccio Espagnol
+        artist: Rimsky-Korsakov
+        links:
+          youtube: https://www.youtube.com/watch?v=X_HSpn3tE_A
+          classical: true
+'2016':
+  autumn:
+    - eating lunch with da boys:
+      - title: HEYYEYAAEYAAAEYAEYAA
+        artist: HEYYEYAAEYAAAEYAEYAA
+        links:
+          youtube: https://www.youtube.com/watch?v=ZZ5LpwO-An4
+          meme: true
+  summer:
+    - bye-bye piano: # last few piano lessons
+      - title: Prelude No. 2 in C# minor
+        artist: Rachmaninoff
+        links:
+          youtube: https://www.youtube.com/watch?v=SCm9O2KNEX4
+          classical: true
+      - title: Capriccio italien
+        artist: Tchaikovsky
+        links:
+          spotify: https://open.spotify.com/track/5HepI6E5fM3MAYJNSCwphN?si=6b2c6101066f43a0
+          classical: true
+  spring:
+    - can you believe we're almost in high school: # lip sync contest lmfao
+      - title: Viva La Vida
+        artist: Coldplay
+        links:
+          youtube: https://www.youtube.com/watch?v=dvgZkm1xWPE
+'2015':
+  winter:
+    - 姥姥做的好吃的: # visit 姥姥 at friendship house
+      - title: La Campanella
+        artist: Liszt, Paganini
+        links:
+          youtube: https://www.youtube.com/watch?v=hEnfZjqMSy0
+          classical: true
+      - title: Scherzo No. 2 in B♭ minor
+        artist: Chopin
+        links:
+          youtube: https://www.youtube.com/watch?v=zfDce00KH4k
+          classical: true
+      - title: Fantaisie-Impromptu
+        artist: Chopin
+        links:
+          youtube: https://www.youtube.com/watch?v=tvm2ZsRv3C8
+          classical: true
+      - title: Sonata No. 8 - Pathetique, Mvt. 2
+        artist: Beethoven
+        links:
+          youtube: https://www.youtube.com/watch?v=BuN3yCmHb_U
+          classical: true
+      - title: Alt-Wiener Tanzweisen, Liebesleid
+        artist: Kreisler
+        links:
+          youtube: https://www.youtube.com/watch?v=CKrGC5h0RA0
+          classical: true
+      - title: Praeludium und Allegro
+        artist: Kreisler
+        links:
+          youtube: https://www.youtube.com/watch?v=oeETRRsj1Ek
+          classical: true
+      - title: Csárdás
+        artist: Monti
+        links:
+          youtube: https://www.youtube.com/watch?v=HVach8BsJSM
+          classical: true
+      - title: Humoresque No. 7, Poco lente e grazioso
+        artist: Morawetz, Dvořák
+        links:
+          spotify: https://open.spotify.com/track/78w7y8EDtL5LFaZ80rOkRl?si=96380e3711ef47e9
+          classical: true
+      - album: Symphonie Espagnole
+        artist: Lalo
+        links:
+          youtube: https://www.youtube.com/watch?v=lEeaFZkpLH4
+          classical: true
+      - title: Zigeunerweisen
+        artist: Sarasate
+        links:
+          spotify: https://open.spotify.com/track/2st9kwCck5g6hjUwwRGQCE?si=3025e53d51d54100
+          classical: true
+      - title: Marche slave
+        artist: Tchaikovsky
+        links:
+          spotify: https://open.spotify.com/track/4nme70lTDNLI3mdpKrnrO0?si=ccfad7c851d449d1
+          classical: true
+  summer:
+    - summer band:
+      - title: Bayou Breakdown
+        artist: Karrick
+        links:
+          spotify: https://open.spotify.com/track/2ih2MMQYC3Fj5OORWCsBaR?si=48ca1f27e9cc4e0d
+    - import dvd: # 素敵な選TAXI, ガリレオ, のだめカンタービレ
+      - title: 選TAXI Opening
+        artist: 本間勇輔
+        links:
+          youtube: https://www.youtube.com/watch?v=0kU6wFQsMb4
+      - title: vs. ~知覚と快楽の螺旋~
+        artist: 福山雅治
+        links:
+          spotify: https://open.spotify.com/track/23ZLIzxJotEObLldtiTJzZ?si=107f27caea314386
+      - title: vs.2013 ~知覚と快楽の螺旋~
+        artist: 福山雅治
+        links:
+          spotify: https://open.spotify.com/track/5lQBkoXivgiXqKicR2uaTh?si=a6bddce58fee4a05
+      - title: Rhapsody in Blue
+        artist: Gershwin
+        links:
+          spotify: https://open.spotify.com/track/0g7AZiNDzDuEYOwV27qoXb?si=97bab5a3f8a94ce0
+          classical: true
+      - album: Symphony No. 7
+        artist: Beethoven
+        links:
+          youtube: https://www.youtube.com/watch?v=-4788Tmz9Zo
+          classical: true
+      - album: Symphony No. 4 - Italian
+        artist: Mendelssohn
+        links:
+          youtube: https://www.youtube.com/watch?v=_HX_jF1_Tgc
+          classical: true
+      - album: Sonata No. 14 - Moonlight
+        artist: Beethoven
+        links:
+          youtube: https://www.youtube.com/watch?v=OsOUcikyGRk
+          classical: true
+      - title: Requiem, Dies Irae
+        artist: Verdi
+        links:
+          youtube: https://www.youtube.com/watch?v=MeXR5blDTIk
+          classical: true
+      - album: Symphony No. 9 - Choral
+        artist: Beethoven
+        links:
+          spotify: https://open.spotify.com/album/2XF4GhKOvsWt1viozHlx8a?si=GvRpGJ4FQR-2DigF8idSpw&dl_branch=1
+          classical: true
+      - title: Sonata for Two Pianos, Allegro con spirito
+        artist: Mozart
+        links:
+          youtube: https://www.youtube.com/watch?v=9iePyP2HOr8
+          classical: true
+      - title: Die Zauberflöte, Der Hölle Rache
+        artist: Mozart
+        links:
+          youtube: https://www.youtube.com/watch?v=YuBeBjqKSGQ
+          classical: true
+      - title: Romeo and Juliet, Dance of the Knights
+        artist: Prokofiev
+        links:
+          youtube: https://www.youtube.com/watch?v=Z_hOR50u7ek
+          classical: true
+      - title: Till Eulenspiegels lustige Streiche
+        artist: Strauss
+        links:
+          spotify: https://open.spotify.com/track/1QvfZxj6PhBMhQMLdYgTuB?si=ac97474f3e9a4e79
+          classical: true
+      - album: Violin Concerto No. 1
+        artist: Mozart
+        links:
+          youtube: https://www.youtube.com/watch?v=ftfiFU_rDo4
+          classical: true
+      - title: American Patrol
+        artist: Meacham
+        links:
+          youtube: https://www.youtube.com/watch?v=UP0uQzZk-ug
+          classical: true
+      - album: L'Arlésienne
+        artist: Bizet
+        links:
+          youtube: https://www.youtube.com/watch?v=hBlNa9_RCNw
+          classical: true
+      - title: Gayane, Sabre Dance
+        artist: Khachaturian
+        links:
+          youtube: https://www.youtube.com/watch?v=mUQHGpxrz-8&list=PLRF7wzUlE19bidNQF1Xdhb37wiqhaQpnW&index=35
+          classical: true
+      - title: Le Carnaval des animaux, Aquarium
+        artist: Saint-Saëns
+        links:
+          youtube: https://www.youtube.com/watch?v=F6oOvA58Aps
+          classical: true
+      - album: Piano Concerto No. 1
+        artist: Chopin
+        links:
+          youtube: https://www.youtube.com/watch?v=ZR9HayZcZ2o
+          classical: true
+      - album: Piano Conerto No. 2
+        artist: Rachmaninoff
+        links:
+          youtube: https://www.youtube.com/watch?v=l4zkc7KEvYM
+          classical: true
+      - title: Boléro
+        artist: Ravel
+        links:
+          spotify: https://open.spotify.com/track/0AeL6W5DmBC44nYAyycitt?si=a2252a5e11224550
+          classical: true
+      - album: Symphony No. 1
+        artist: Brahms
+        links:
+          youtube: https://www.youtube.com/watch?v=DGODw49lSLQ
+          classical: true
+      - title: Midsummer Night's Dream, Overture
+        artist: Mendelssohn
+        links:
+          spotify: https://open.spotify.com/track/7D9oMO6cMskLlWvUmYgsAK?si=f3a2fb4fbb534f4b
+          classical: true
+      - title: Till Eulenspiegels lustige Streiche
+        artist: Strauss
+        links:
+          spotify: https://open.spotify.com/track/1QvfZxj6PhBMhQMLdYgTuB?si=b047e20255f242a7
+          classical: true
+'2014':
+  winter:
+    - just dancing with ephemeral friends: # 6th grade winter family-friends gathering
+      - title: Y.M.C.A
+        artist: Village People
+        links:
+          youtube: https://www.youtube.com/watch?v=CS9OO0S5w2k
+      - title: Troublemaker
+        artist: Olly Murs, Flo Rida
+        links:
+          youtube: https://www.youtube.com/watch?v=4aQDOUbErNg
+      - title: Moskau
+        artist: Dschinghis Khan
+        links:
+          youtube: https://www.youtube.com/watch?v=NvS351QKFV4
+      - title: Just Dance
+        artist: Lady Gaga, Colby O'Donis
+        links:
+          youtube: https://www.youtube.com/watch?v=2Abk1jAONjw
+      - title: I Will Survive
+        artist: Gloria Gaynor
+        links:
+          youtube: https://www.youtube.com/watch?v=ARt9HV9T0w8
+      - title: Get Lucky
+        artist: Daft Punk, Pharrell Williams
+        links:
+          youtube: https://www.youtube.com/watch?v=CCHdMIEGaaM
+      - title: Gentleman
+        artist: PSY
+        links:
+          youtube: https://www.youtube.com/watch?v=ASO_zypdnsQ
+  summer:
+    - homebrewing:
+      - album: Piano Concert No. 1
+        artist: Tchaikovsky
+        links:
+          youtube: https://www.youtube.com/watch?v=2ckJz21GspQ
+          classical: true
+      - album: Violin Concerto in D Major
+        artist: Tchaikovsky
+        links:
+          youtube: https://www.youtube.com/watch?v=QCKL95HAdQ8
+          classical: true
+'2013':
+  autumn:
+    - its 7am in the morning in the band room:
+      - title: Careless Whisper
+        artist: George Michael
+        links:
+          youtube: https://www.youtube.com/watch?v=izGwDsrQ1eQ
+  summer:
+    - Cornfield State Fair Young Hoosier State Piano Competition (YHSP):
+      - title: Sonatina in F major, Op. 34 No. 4, arr. for 4 hands - Con spirito, Mvt. 1
+        artist: Clementi
+    - sleeping on the first floor with ac on in the first midwest summer: # peppermill
+      - title: Butterfly Core
+        artist: VALSHE
+        links:
+          youtube: https://www.youtube.com/watch?v=qIpYWaGJP6o
+      - title: 謎 (名探偵コナン)
+        artist: 小松未歩
+        links:
+          spotify: https://open.spotify.com/track/3kT01HAng8yrK9WQ2bZG7q?si=2a9452a2f7194d5a
+  spring:
+    - core memory: # just dance at auntie & uncle's
+      - title: Call Me Maybe
+        artist: Carly Rae Jepsen
+        links:
+          spotify: https://open.spotify.com/track/3TGRqZ0a2l1LRblBkJoaDx
+      - title: GANGNAM STYLE (강남스타일)
+        artist: PSY
+        links:
+          youtube: https://www.youtube.com/watch?v=9bZkp7q19f0
+'2012':
+  autumn:
+    - nice sounds bro:
+      - album: Masterpieces with Flair!, Book 1
+        artist: Various
+      - album: Masterpieces with Flair!, Book 2
+        artist: Various
+'2011':
+  autumn:
+    - exploring the toshiba: # messing around with the laptop computer
+      - title: Ballade pour Adeline # I played this
+        artist: Richard Clayderman, Paul de Senneville
+        links:
+          youtube: https://www.youtube.com/watch?v=gfsgXJQ0ebU
+      - title: Rhapsody in Blue
+        artist: Richard Clayderman, George Gershwin
+        links:
+          youtube: https://www.youtube.com/watch?v=8wMoiyEM6Ls
+      - title: Kalimba (Ninja Tuna)
+        artist: Mr. Scruff
+        links:
+          youtube: https://www.youtube.com/watch?v=tCO4i2t-Aso
+      - title: 恋のマイアヒ (Dragostea din tei)
+        artist: Unknown, O-Zone
+        links:
+          youtube: https://www.youtube.com/watch?v=SCyFMUyjXck
