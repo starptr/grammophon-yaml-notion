@@ -14,5 +14,7 @@ module.exports = {
   ],
   rules: {
     'no-unused-vars': 'warn',
+    'no-restricted-syntax': 'off',
+    'no-await-in-loop': 'off',
   },
 };
