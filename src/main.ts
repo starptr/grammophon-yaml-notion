@@ -1,7 +1,10 @@
 import 'dotenv/config';
 import { Client, isNotionClientError } from '@notionhq/client';
 import * as YAML from 'yaml';
+import throttledQueue from 'throttled-queue';
 import * as fs from 'fs';
+
+const throttle = throttledQueue(1, 350);
 
 const notion = new Client({ auth: process.env.NOTION_KEY });
 const dbId = process.env.NOTION_DB_GWORKS_ID;
